@@ -17,7 +17,7 @@ const App=()=>{
   <Router>
    <>
     <Nav />
-   
+   <Home />
   
     
      
