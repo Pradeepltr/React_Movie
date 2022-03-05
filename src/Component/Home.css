@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.Movie{
+    margin-left: 5%;
+}
+.d-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 3%;
+    width: 20%;
+    margin-bottom: 5%;
+    margin-left: 40%;
+}
+.btn{
+    margin-top: 4%;
+}
+h1{
+    color: brown;
+}

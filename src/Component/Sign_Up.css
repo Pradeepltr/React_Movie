@@ -1,0 +1,16 @@
+.row{
+    margin-top: 5%;
+    width: 100%;
+}
+.col{
+    width: 25%;
+}
+.form{
+    margin-top: 5%;
+    width: 40%;
+    padding: 30px;
+    background-color: aquamarine;
+    align-items: center;
+    text-align: center;
+    margin-left: 30%;
+}
