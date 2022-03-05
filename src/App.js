@@ -17,19 +17,20 @@ const App=()=>{
   <Router>
    <>
     <Nav />
-   <Home />
+   
   
     
      
     
      <Routes>
        {/* <Route path='/status' element={<Status/>}/> */}
-       <Route path='/' element={<Home />} />
+       <Route exact path='/' element={<Home />} />
        <Route path='/signup' element={<Sign_Up/>}/>
        <Route path='/signin' element={<Sign_In/>}/>
        <Route path='/detail' element={< MovieDetails/>}/>
-
+       
      </Routes>
+     
      
    
   
